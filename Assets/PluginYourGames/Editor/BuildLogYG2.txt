@@ -1,0 +1,3 @@
+Build path: C:/Users/user/OneDrive/Документы/ClickerLabubu/ClickerLabubu/Build
+Build number: 22
+PluginYG version: 2.0032
