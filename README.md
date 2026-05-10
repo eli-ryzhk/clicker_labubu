@@ -6,6 +6,23 @@ Click on Labubu to earn coins and unlock new colorful skins.
 
 The more you click, the more coins you collect. Use them to customize your Labubu with different color variations and appearances.
 
+---
+
+## Gameplay Preview
+
+![Gameplay](README_Image/gameplay.gif)
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="README_Image/screen1.png" width="300"/>
+  <img src="README_Image/screen2.png" width="300"/>
+</p>
+
+---
+
 ## Gameplay Features
 
 - Classic clicker gameplay
